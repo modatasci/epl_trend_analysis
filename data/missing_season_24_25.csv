@@ -1,0 +1,381 @@
+idEvent,Season,strTimestamp,Round,HomeTeam,FullTimeHomeGoals,AwayTeam,FullTimeAwayGoals
+2069556,2024/25,8/16/24 19:00,Round 1,Man United,1,Fulham,0
+2069557,2024/25,8/17/24 11:30,Round 1,Ipswich,0,Liverpool,2
+2069558,2024/25,8/17/24 14:00,Round 1,Arsenal,2,Wolves,0
+2069559,2024/25,8/17/24 14:00,Round 1,Everton,0,Brighton,3
+2069560,2024/25,8/17/24 14:00,Round 1,Newcastle,1,Southampton,0
+2069561,2024/25,8/17/24 14:00,Round 1,Nott'm Forest,1,Bournemouth,1
+2069562,2024/25,8/17/24 16:30,Round 1,West Ham,1,Aston Villa,2
+2069563,2024/25,8/18/24 13:00,Round 1,Brentford,2,Crystal Palace,1
+2069564,2024/25,8/18/24 15:30,Round 1,Chelsea,0,Man City,2
+2069565,2024/25,8/19/24 19:00,Round 1,Leicester,1,Tottenham,1
+2069566,2024/25,8/24/24 11:30,Round 2,Brighton,2,Man United,1
+2069568,2024/25,8/24/24 14:00,Round 2,Tottenham,4,Everton,0
+2069569,2024/25,8/24/24 14:00,Round 2,Southampton,0,Nott'm Forest,1
+2069570,2024/25,8/24/24 14:00,Round 2,Man City,4,Ipswich,1
+2069572,2024/25,8/24/24 14:00,Round 2,Fulham,2,Leicester,1
+2069573,2024/25,8/24/24 14:00,Round 2,Crystal Palace,0,West Ham,2
+2069574,2024/25,8/24/24 16:30,Round 2,Aston Villa,0,Arsenal,2
+2069567,2024/25,8/25/24 13:00,Round 2,Wolves,2,Chelsea,6
+2069575,2024/25,8/25/24 13:00,Round 2,Bournemouth,1,Newcastle,1
+2069571,2024/25,8/25/24 15:30,Round 2,Liverpool,2,Brentford,0
+2069583,2024/25,8/31/24 11:30,Round 3,Arsenal,1,Brighton,1
+2069578,2024/25,8/31/24 14:00,Round 3,Nott'm Forest,1,Wolves,1
+2069581,2024/25,8/31/24 14:00,Round 3,Ipswich,1,Fulham,1
+2069582,2024/25,8/31/24 14:00,Round 3,Everton,2,Bournemouth,3
+2069584,2024/25,8/31/24 14:00,Round 3,Brentford,3,Southampton,1
+2069585,2024/25,8/31/24 14:00,Round 3,Leicester,1,Aston Villa,2
+2069577,2024/25,8/31/24 16:30,Round 3,West Ham,1,Man City,3
+2069576,2024/25,9/1/24 12:30,Round 3,Chelsea,1,Crystal Palace,1
+2069579,2024/25,9/1/24 12:30,Round 3,Newcastle,2,Tottenham,1
+2069580,2024/25,9/1/24 15:00,Round 3,Man United,0,Liverpool,3
+2069589,2024/25,9/14/24 11:30,Round 4,Southampton,0,Man United,3
+2069586,2024/25,9/14/24 14:00,Round 4,Liverpool,0,Nott'm Forest,1
+2069590,2024/25,9/14/24 14:00,Round 4,Man City,2,Brentford,1
+2069591,2024/25,9/14/24 14:00,Round 4,Fulham,1,West Ham,1
+2069592,2024/25,9/14/24 14:00,Round 4,Crystal Palace,2,Leicester,2
+2069593,2024/25,9/14/24 14:00,Round 4,Brighton,0,Ipswich,0
+2069594,2024/25,9/14/24 16:30,Round 4,Aston Villa,3,Everton,2
+2069595,2024/25,9/14/24 19:00,Round 4,Bournemouth,0,Chelsea,1
+2069588,2024/25,9/15/24 13:00,Round 4,Tottenham,0,Arsenal,1
+2069587,2024/25,9/15/24 15:30,Round 4,Wolves,1,Newcastle,2
+2069597,2024/25,9/21/24 11:30,Round 5,West Ham,0,Chelsea,3
+2069596,2024/25,9/21/24 14:00,Round 5,Aston Villa,3,Wolves,1
+2069598,2024/25,9/21/24 14:00,Round 5,Tottenham,3,Brentford,1
+2069599,2024/25,9/21/24 14:00,Round 5,Southampton,1,Ipswich,1
+2069601,2024/25,9/21/24 14:00,Round 5,Leicester,1,Everton,1
+2069602,2024/25,9/21/24 14:00,Round 5,Fulham,3,Newcastle,1
+2069605,2024/25,9/21/24 14:00,Round 5,Liverpool,3,Bournemouth,0
+2069603,2024/25,9/21/24 16:30,Round 5,Crystal Palace,0,Man United,0
+2069604,2024/25,9/22/24 13:00,Round 5,Brighton,2,Nott'm Forest,2
+2069600,2024/25,9/22/24 15:30,Round 5,Man City,2,Arsenal,2
+2069609,2024/25,9/28/24 11:30,Round 6,Newcastle,1,Man City,1
+2069608,2024/25,9/28/24 14:00,Round 6,Nott'm Forest,0,Fulham,1
+2069611,2024/25,9/28/24 14:00,Round 6,Everton,2,Crystal Palace,1
+2069612,2024/25,9/28/24 14:00,Round 6,Chelsea,4,Brighton,2
+2069613,2024/25,9/28/24 14:00,Round 6,Brentford,1,West Ham,1
+2069614,2024/25,9/28/24 14:00,Round 6,Arsenal,4,Leicester,2
+2069607,2024/25,9/28/24 16:30,Round 6,Wolves,1,Liverpool,2
+2069606,2024/25,9/29/24 13:00,Round 6,Ipswich,2,Aston Villa,2
+2069610,2024/25,9/29/24 15:30,Round 6,Man United,0,Tottenham,3
+2069615,2024/25,9/30/24 19:00,Round 6,Bournemouth,3,Southampton,1
+2069621,2024/25,10/5/24 11:30,Round 7,Crystal Palace,0,Liverpool,1
+2069616,2024/25,10/5/24 14:00,Round 7,Brentford,5,Wolves,3
+2069617,2024/25,10/5/24 14:00,Round 7,West Ham,4,Ipswich,1
+2069618,2024/25,10/5/24 14:00,Round 7,Man City,3,Fulham,2
+2069619,2024/25,10/5/24 14:00,Round 7,Leicester,1,Bournemouth,0
+2069625,2024/25,10/5/24 14:00,Round 7,Arsenal,3,Southampton,1
+2069620,2024/25,10/5/24 16:30,Round 7,Everton,0,Newcastle,0
+2069622,2024/25,10/6/24 13:00,Round 7,Chelsea,1,Nott'm Forest,1
+2069624,2024/25,10/6/24 13:00,Round 7,Aston Villa,0,Man United,0
+2069623,2024/25,10/6/24 15:30,Round 7,Brighton,3,Tottenham,2
+2069634,2024/25,10/19/24 11:30,Round 8,Tottenham,4,West Ham,1
+2069627,2024/25,10/19/24 14:00,Round 8,Fulham,1,Aston Villa,3
+2069628,2024/25,10/19/24 14:00,Round 8,Ipswich,0,Everton,2
+2069630,2024/25,10/19/24 14:00,Round 8,Man United,2,Brentford,1
+2069631,2024/25,10/19/24 14:00,Round 8,Newcastle,0,Brighton,1
+2069633,2024/25,10/19/24 14:00,Round 8,Southampton,2,Leicester,3
+2069626,2024/25,10/19/24 16:30,Round 8,Bournemouth,2,Arsenal,0
+2069635,2024/25,10/20/24 13:00,Round 8,Wolves,1,Man City,2
+2069629,2024/25,10/20/24 15:30,Round 8,Liverpool,2,Chelsea,1
+2069632,2024/25,10/21/24 19:00,Round 8,Nott'm Forest,1,Crystal Palace,0
+2069925,2024/25,10/25/24 19:00,Round 9,Leicester,1,Nott'm Forest,3
+2069919,2024/25,10/26/24 14:00,Round 9,Aston Villa,1,Bournemouth,1
+2069920,2024/25,10/26/24 14:00,Round 9,Brentford,4,Ipswich,3
+2069921,2024/25,10/26/24 14:00,Round 9,Brighton,2,Wolves,2
+2069926,2024/25,10/26/24 14:00,Round 9,Man City,1,Southampton,0
+2069924,2024/25,10/26/24 16:30,Round 9,Everton,1,Fulham,1
+2069922,2024/25,10/27/24 13:00,Round 9,Chelsea,2,Newcastle,1
+2069923,2024/25,10/27/24 13:00,Round 9,Crystal Palace,1,Tottenham,0
+2069927,2024/25,10/27/24 13:00,Round 9,West Ham,2,Man United,1
+2069918,2024/25,10/27/24 15:30,Round 9,Arsenal,2,Liverpool,2
+2069933,2024/25,11/2/24 12:30,Round 10,Newcastle,1,Arsenal,0
+2069928,2024/25,11/2/24 15:00,Round 10,Bournemouth,2,Man City,1
+2069930,2024/25,11/2/24 15:00,Round 10,Ipswich,1,Leicester,1
+2069931,2024/25,11/2/24 15:00,Round 10,Liverpool,2,Brighton,1
+2069934,2024/25,11/2/24 15:00,Round 10,Nott'm Forest,3,West Ham,0
+2069935,2024/25,11/2/24 15:00,Round 10,Southampton,1,Everton,0
+2069937,2024/25,11/2/24 17:30,Round 10,Wolves,2,Crystal Palace,2
+2069936,2024/25,11/3/24 14:00,Round 10,Tottenham,4,Aston Villa,1
+2069932,2024/25,11/3/24 16:30,Round 10,Man United,1,Chelsea,1
+2069929,2024/25,11/4/24 20:00,Round 10,Fulham,2,Brentford,1
+2069938,2024/25,11/9/24 15:00,Round 11,Brentford,3,Bournemouth,2
+2069941,2024/25,11/9/24 15:00,Round 11,Crystal Palace,0,Fulham,2
+2069946,2024/25,11/9/24 15:00,Round 11,West Ham,0,Everton,0
+2069947,2024/25,11/9/24 15:00,Round 11,Wolves,2,Southampton,0
+2069939,2024/25,11/9/24 17:30,Round 11,Brighton,2,Man City,1
+2069942,2024/25,11/9/24 20:00,Round 11,Liverpool,2,Aston Villa,0
+2069943,2024/25,11/10/24 14:00,Round 11,Man United,3,Leicester,0
+2069944,2024/25,11/10/24 14:00,Round 11,Nott'm Forest,1,Newcastle,3
+2069945,2024/25,11/10/24 14:00,Round 11,Tottenham,1,Ipswich,2
+2069940,2024/25,11/10/24 16:30,Round 11,Chelsea,1,Arsenal,1
+2069954,2024/25,11/23/24 12:30,Round 12,Leicester,1,Chelsea,2
+2069948,2024/25,11/23/24 15:00,Round 12,Bournemouth,1,Brighton,2
+2069949,2024/25,11/23/24 15:00,Round 12,Arsenal,3,Nott'm Forest,0
+2069950,2024/25,11/23/24 15:00,Round 12,Aston Villa,2,Crystal Palace,2
+2069951,2024/25,11/23/24 15:00,Round 12,Everton,0,Brentford,0
+2069952,2024/25,11/23/24 15:00,Round 12,Fulham,1,Wolves,4
+2069955,2024/25,11/23/24 17:30,Round 12,Man City,0,Tottenham,4
+2069957,2024/25,11/24/24 14:00,Round 12,Southampton,2,Liverpool,3
+2069953,2024/25,11/24/24 16:30,Round 12,Ipswich,1,Man United,1
+2069956,2024/25,11/25/24 20:00,Round 12,Newcastle,0,West Ham,2
+2069959,2024/25,11/29/24 20:00,Round 13,Brighton,1,Southampton,1
+2069958,2024/25,11/30/24 15:00,Round 13,Brentford,4,Leicester,1
+2069961,2024/25,11/30/24 15:00,Round 13,Crystal Palace,1,Newcastle,1
+2069964,2024/25,11/30/24 15:00,Round 13,Nott'm Forest,1,Ipswich,0
+2069967,2024/25,11/30/24 15:00,Round 13,Wolves,2,Bournemouth,4
+2069966,2024/25,11/30/24 17:30,Round 13,West Ham,2,Arsenal,5
+2069960,2024/25,12/1/24 13:30,Round 13,Chelsea,3,Aston Villa,0
+2069963,2024/25,12/1/24 13:30,Round 13,Man United,4,Everton,0
+2069965,2024/25,12/1/24 13:30,Round 13,Tottenham,1,Fulham,1
+2069962,2024/25,12/1/24 16:00,Round 13,Liverpool,2,Man City,0
+2069973,2024/25,12/3/24 19:30,Round 14,Ipswich,0,Crystal Palace,1
+2069974,2024/25,12/3/24 20:15,Round 14,Leicester,3,West Ham,1
+2069971,2024/25,12/4/24 19:30,Round 14,Everton,4,Wolves,0
+2069975,2024/25,12/4/24 19:30,Round 14,Man City,3,Nott'm Forest,0
+2069976,2024/25,12/4/24 19:30,Round 14,Newcastle,3,Liverpool,3
+2069977,2024/25,12/4/24 19:30,Round 14,Southampton,1,Chelsea,5
+2069969,2024/25,12/4/24 20:15,Round 14,Arsenal,2,Man United,0
+2069970,2024/25,12/4/24 20:15,Round 14,Aston Villa,3,Brentford,1
+2069972,2024/25,12/5/24 19:30,Round 14,Fulham,3,Brighton,1
+2069968,2024/25,12/5/24 20:15,Round 14,Bournemouth,1,Tottenham,0
+2069978,2024/25,12/7/24 15:00,Round 15,Aston Villa,1,Southampton,0
+2069979,2024/25,12/7/24 15:00,Round 15,Brentford,4,Newcastle,2
+2069980,2024/25,12/7/24 15:00,Round 15,Crystal Palace,2,Man City,2
+2069985,2024/25,12/7/24 17:30,Round 15,Man United,2,Nott'm Forest,3
+2069982,2024/25,12/8/24 14:00,Round 15,Fulham,1,Arsenal,1
+2069983,2024/25,12/8/24 14:00,Round 15,Ipswich,1,Bournemouth,2
+2069984,2024/25,12/8/24 14:00,Round 15,Leicester,2,Brighton,2
+2069986,2024/25,12/8/24 16:30,Round 15,Tottenham,3,Chelsea,4
+2069987,2024/25,12/9/24 20:00,Round 15,West Ham,2,Wolves,1
+2069989,2024/25,12/14/24 15:00,Round 16,Arsenal,0,Everton,0
+2069992,2024/25,12/14/24 15:00,Round 16,Liverpool,2,Fulham,2
+2069994,2024/25,12/14/24 15:00,Round 16,Newcastle,4,Leicester,0
+2069997,2024/25,12/14/24 15:00,Round 16,Wolves,1,Ipswich,2
+2069995,2024/25,12/14/24 17:30,Round 16,Nott'm Forest,2,Aston Villa,1
+2069990,2024/25,12/15/24 14:00,Round 16,Brighton,1,Crystal Palace,3
+2069993,2024/25,12/15/24 16:30,Round 16,Man City,1,Man United,2
+2069991,2024/25,12/15/24 19:00,Round 16,Chelsea,2,Brentford,1
+2069996,2024/25,12/15/24 19:00,Round 16,Southampton,0,Tottenham,5
+2069988,2024/25,12/16/24 20:00,Round 16,Bournemouth,1,West Ham,1
+2069998,2024/25,12/21/24 12:30,Round 17,Aston Villa,2,Man City,1
+2069999,2024/25,12/21/24 15:00,Round 17,Brentford,0,Nott'm Forest,2
+2070003,2024/25,12/21/24 15:00,Round 17,Ipswich,0,Newcastle,4
+2070007,2024/25,12/21/24 15:00,Round 17,West Ham,1,Brighton,1
+2070000,2024/25,12/21/24 17:30,Round 17,Crystal Palace,1,Arsenal,5
+2070001,2024/25,12/22/24 14:00,Round 17,Everton,0,Chelsea,0
+2070002,2024/25,12/22/24 14:00,Round 17,Fulham,0,Southampton,0
+2070004,2024/25,12/22/24 14:00,Round 17,Leicester,0,Wolves,3
+2070005,2024/25,12/22/24 14:00,Round 17,Man United,0,Bournemouth,3
+2070006,2024/25,12/22/24 16:30,Round 17,Tottenham,3,Liverpool,6
+2070013,2024/25,12/26/24 12:30,Round 18,Man City,1,Everton,1
+2070008,2024/25,12/26/24 15:00,Round 18,Bournemouth,0,Crystal Palace,0
+2070011,2024/25,12/26/24 15:00,Round 18,Chelsea,1,Fulham,2
+2070014,2024/25,12/26/24 15:00,Round 18,Newcastle,3,Aston Villa,0
+2070015,2024/25,12/26/24 15:00,Round 18,Nott'm Forest,1,Tottenham,0
+2070016,2024/25,12/26/24 15:00,Round 18,Southampton,0,West Ham,1
+2070017,2024/25,12/26/24 17:30,Round 18,Wolves,2,Man United,0
+2070012,2024/25,12/26/24 20:00,Round 18,Liverpool,3,Leicester,1
+2070010,2024/25,12/27/24 19:30,Round 18,Brighton,0,Brentford,0
+2070009,2024/25,12/27/24 20:15,Round 18,Arsenal,1,Ipswich,0
+2070024,2024/25,12/29/24 14:30,Round 19,Leicester,0,Man City,2
+2070020,2024/25,12/29/24 15:00,Round 19,Crystal Palace,2,Southampton,1
+2070021,2024/25,12/29/24 15:00,Round 19,Everton,0,Nott'm Forest,2
+2070022,2024/25,12/29/24 15:00,Round 19,Fulham,2,Bournemouth,2
+2070026,2024/25,12/29/24 15:00,Round 19,Tottenham,2,Wolves,2
+2070027,2024/25,12/29/24 17:15,Round 19,West Ham,0,Liverpool,5
+2070018,2024/25,12/30/24 19:45,Round 19,Aston Villa,2,Brighton,2
+2070023,2024/25,12/30/24 19:45,Round 19,Ipswich,2,Chelsea,0
+2070025,2024/25,12/30/24 20:00,Round 19,Man United,0,Newcastle,2
+2070019,2024/25,1/1/25 17:30,Round 19,Brentford,1,Arsenal,3
+2070036,2024/25,1/4/25 12:30,Round 20,Tottenham,1,Newcastle,2
+2070028,2024/25,1/4/25 15:00,Round 20,Bournemouth,1,Everton,0
+2070029,2024/25,1/4/25 15:00,Round 20,Aston Villa,2,Leicester,1
+2070031,2024/25,1/4/25 15:00,Round 20,Crystal Palace,1,Chelsea,1
+2070034,2024/25,1/4/25 15:00,Round 20,Man City,4,West Ham,1
+2070035,2024/25,1/4/25 15:00,Round 20,Southampton,0,Brentford,5
+2070030,2024/25,1/4/25 17:30,Round 20,Brighton,1,Arsenal,1
+2070032,2024/25,1/5/25 14:00,Round 20,Fulham,2,Ipswich,2
+2070033,2024/25,1/5/25 16:30,Round 20,Liverpool,2,Man United,2
+2070037,2024/25,1/6/25 20:00,Round 20,Wolves,0,Nott'm Forest,3
+2070039,2024/25,1/14/25 19:30,Round 21,Brentford,2,Man City,2
+2070044,2024/25,1/14/25 19:30,Round 21,West Ham,3,Fulham,2
+2070045,2024/25,1/14/25 19:30,Round 21,Chelsea,2,Bournemouth,2
+2070043,2024/25,1/14/25 20:00,Round 21,Nott'm Forest,1,Liverpool,1
+2070040,2024/25,1/15/25 19:30,Round 21,Everton,0,Aston Villa,1
+2070042,2024/25,1/15/25 19:30,Round 21,Leicester,0,Crystal Palace,2
+2070046,2024/25,1/15/25 19:30,Round 21,Newcastle,3,Wolves,0
+2070038,2024/25,1/15/25 20:00,Round 21,Arsenal,2,Tottenham,1
+2070041,2024/25,1/16/25 19:30,Round 21,Ipswich,0,Brighton,2
+2070047,2024/25,1/16/25 20:00,Round 21,Man United,3,Southampton,1
+2070055,2024/25,1/18/25 12:30,Round 22,Newcastle,1,Bournemouth,4
+2070049,2024/25,1/18/25 15:00,Round 22,Brentford,0,Liverpool,2
+2070053,2024/25,1/18/25 15:00,Round 22,Leicester,0,Fulham,2
+2070057,2024/25,1/18/25 15:00,Round 22,West Ham,0,Crystal Palace,2
+2070048,2024/25,1/18/25 17:30,Round 22,Arsenal,2,Aston Villa,2
+2070051,2024/25,1/19/25 14:00,Round 22,Everton,3,Tottenham,2
+2070054,2024/25,1/19/25 14:00,Round 22,Man United,1,Brighton,3
+2070056,2024/25,1/19/25 14:00,Round 22,Nott'm Forest,3,Southampton,2
+2070052,2024/25,1/19/25 16:30,Round 22,Ipswich,0,Man City,6
+2070050,2024/25,1/20/25 20:00,Round 22,Chelsea,3,Wolves,1
+2070058,2024/25,1/25/25 15:00,Round 23,Bournemouth,5,Nott'm Forest,0
+2070060,2024/25,1/25/25 15:00,Round 23,Brighton,0,Everton,1
+2070063,2024/25,1/25/25 15:00,Round 23,Liverpool,4,Ipswich,1
+2070065,2024/25,1/25/25 15:00,Round 23,Southampton,1,Newcastle,3
+2070067,2024/25,1/25/25 15:00,Round 23,Wolves,0,Arsenal,1
+2070064,2024/25,1/25/25 17:30,Round 23,Man City,3,Chelsea,1
+2070061,2024/25,1/26/25 14:00,Round 23,Crystal Palace,1,Brentford,2
+2070066,2024/25,1/26/25 14:00,Round 23,Tottenham,1,Leicester,2
+2070059,2024/25,1/26/25 16:30,Round 23,Aston Villa,1,West Ham,1
+2070062,2024/25,1/26/25 19:00,Round 23,Fulham,0,Man United,1
+2070076,2024/25,2/1/25 12:30,Round 24,Nott'm Forest,7,Brighton,0
+2070068,2024/25,2/1/25 15:00,Round 24,Bournemouth,0,Liverpool,2
+2070072,2024/25,2/1/25 15:00,Round 24,Everton,4,Leicester,0
+2070073,2024/25,2/1/25 15:00,Round 24,Ipswich,1,Southampton,2
+2070075,2024/25,2/1/25 15:00,Round 24,Newcastle,1,Fulham,2
+2070077,2024/25,2/1/25 17:30,Round 24,Wolves,2,Aston Villa,0
+2070070,2024/25,2/2/25 14:00,Round 24,Brentford,0,Tottenham,2
+2070074,2024/25,2/2/25 14:00,Round 24,Man United,0,Crystal Palace,2
+2070069,2024/25,2/2/25 16:30,Round 24,Arsenal,5,Man City,1
+2070071,2024/25,2/3/25 20:00,Round 24,Chelsea,2,West Ham,1
+2069981,2024/25,2/12/25 19:30,Round 15,Everton,2,Liverpool,2
+2070079,2024/25,2/14/25 20:00,Round 25,Brighton,3,Chelsea,0
+2070082,2024/25,2/15/25 12:30,Round 25,Leicester,0,Arsenal,2
+2070078,2024/25,2/15/25 15:00,Round 25,Aston Villa,1,Ipswich,1
+2070081,2024/25,2/15/25 15:00,Round 25,Fulham,2,Nott'm Forest,1
+2070084,2024/25,2/15/25 15:00,Round 25,Man City,4,Newcastle,0
+2070085,2024/25,2/15/25 15:00,Round 25,Southampton,1,Bournemouth,3
+2070087,2024/25,2/15/25 15:00,Round 25,West Ham,0,Brentford,1
+2070080,2024/25,2/15/25 17:30,Round 25,Crystal Palace,1,Everton,2
+2070083,2024/25,2/16/25 14:00,Round 25,Liverpool,2,Wolves,1
+2070086,2024/25,2/16/25 16:30,Round 25,Tottenham,1,Man United,0
+2070120,2024/25,2/19/25 19:30,Round 29,Aston Villa,2,Liverpool,2
+2070094,2024/25,2/21/25 20:00,Round 26,Leicester,0,Brentford,4
+2070091,2024/25,2/22/25 12:30,Round 26,Everton,2,Man United,2
+2070088,2024/25,2/22/25 15:00,Round 26,Bournemouth,0,Wolves,1
+2070089,2024/25,2/22/25 15:00,Round 26,Arsenal,0,West Ham,1
+2070092,2024/25,2/22/25 15:00,Round 26,Fulham,0,Crystal Palace,2
+2070093,2024/25,2/22/25 15:00,Round 26,Ipswich,1,Tottenham,4
+2070097,2024/25,2/22/25 15:00,Round 26,Southampton,0,Brighton,4
+2070090,2024/25,2/22/25 17:30,Round 26,Aston Villa,2,Chelsea,1
+2070096,2024/25,2/23/25 14:00,Round 26,Newcastle,4,Nott'm Forest,3
+2070095,2024/25,2/23/25 16:30,Round 26,Man City,0,Liverpool,2
+2070099,2024/25,2/25/25 19:30,Round 27,Brighton,2,Bournemouth,1
+2070103,2024/25,2/25/25 19:30,Round 27,Wolves,1,Fulham,2
+2070104,2024/25,2/25/25 19:30,Round 27,Crystal Palace,4,Aston Villa,1
+2070105,2024/25,2/25/25 20:15,Round 27,Chelsea,4,Southampton,0
+2070098,2024/25,2/26/25 19:30,Round 27,Brentford,1,Everton,1
+2070100,2024/25,2/26/25 19:30,Round 27,Nott'm Forest,0,Arsenal,0
+2070101,2024/25,2/26/25 19:30,Round 27,Tottenham,0,Man City,1
+2070107,2024/25,2/26/25 19:30,Round 27,Man United,3,Ipswich,2
+2070106,2024/25,2/26/25 20:15,Round 27,Liverpool,2,Newcastle,0
+2070102,2024/25,2/27/25 20:00,Round 27,West Ham,2,Leicester,0
+2070114,2024/25,3/8/25 12:30,Round 28,Nott'm Forest,1,Man City,0
+2070109,2024/25,3/8/25 15:00,Round 28,Brighton,2,Fulham,1
+2070111,2024/25,3/8/25 15:00,Round 28,Crystal Palace,1,Ipswich,0
+2070112,2024/25,3/8/25 15:00,Round 28,Liverpool,3,Southampton,1
+2070108,2024/25,3/8/25 17:30,Round 28,Brentford,0,Aston Villa,1
+2070117,2024/25,3/8/25 20:00,Round 28,Wolves,1,Everton,1
+2070110,2024/25,3/9/25 14:00,Round 28,Chelsea,1,Leicester,0
+2070115,2024/25,3/9/25 14:00,Round 28,Tottenham,2,Bournemouth,2
+2070113,2024/25,3/9/25 16:30,Round 28,Man United,1,Arsenal,1
+2070116,2024/25,3/10/25 20:00,Round 28,West Ham,0,Newcastle,1
+2070121,2024/25,3/15/25 15:00,Round 29,Everton,1,West Ham,1
+2070123,2024/25,3/15/25 15:00,Round 29,Ipswich,2,Nott'm Forest,4
+2070125,2024/25,3/15/25 15:00,Round 29,Man City,2,Brighton,2
+2070127,2024/25,3/15/25 15:00,Round 29,Southampton,1,Wolves,2
+2070118,2024/25,3/15/25 17:30,Round 29,Bournemouth,1,Brentford,2
+2070119,2024/25,3/16/25 13:30,Round 29,Arsenal,1,Chelsea,0
+2070122,2024/25,3/16/25 13:30,Round 29,Fulham,2,Tottenham,0
+2070124,2024/25,3/16/25 19:00,Round 29,Leicester,0,Man United,3
+2070129,2024/25,4/1/25 18:45,Round 30,Arsenal,2,Fulham,1
+2070132,2024/25,4/1/25 18:45,Round 30,Wolves,1,West Ham,0
+2070131,2024/25,4/1/25 19:00,Round 30,Nott'm Forest,1,Man United,0
+2070128,2024/25,4/2/25 18:45,Round 30,Bournemouth,1,Ipswich,2
+2070130,2024/25,4/2/25 18:45,Round 30,Brighton,0,Aston Villa,3
+2070134,2024/25,4/2/25 18:45,Round 30,Man City,2,Leicester,0
+2070135,2024/25,4/2/25 18:45,Round 30,Newcastle,2,Brentford,1
+2070136,2024/25,4/2/25 18:45,Round 30,Southampton,1,Crystal Palace,1
+2070137,2024/25,4/2/25 19:00,Round 30,Liverpool,1,Everton,0
+2070133,2024/25,4/3/25 19:00,Round 30,Chelsea,1,Tottenham,0
+2070141,2024/25,4/5/25 11:30,Round 31,Everton,1,Arsenal,1
+2070140,2024/25,4/5/25 14:00,Round 31,Crystal Palace,2,Brighton,1
+2070143,2024/25,4/5/25 14:00,Round 31,Ipswich,1,Wolves,2
+2070147,2024/25,4/5/25 14:00,Round 31,West Ham,2,Bournemouth,2
+2070138,2024/25,4/5/25 16:30,Round 31,Aston Villa,2,Nott'm Forest,1
+2070139,2024/25,4/6/25 13:00,Round 31,Brentford,0,Chelsea,0
+2070142,2024/25,4/6/25 13:00,Round 31,Fulham,3,Liverpool,2
+2070146,2024/25,4/6/25 13:00,Round 31,Tottenham,3,Southampton,1
+2070145,2024/25,4/6/25 15:30,Round 31,Man United,0,Man City,0
+2070144,2024/25,4/7/25 19:00,Round 31,Leicester,0,Newcastle,3
+2070153,2024/25,4/12/25 11:30,Round 32,Man City,5,Crystal Palace,2
+2070150,2024/25,4/12/25 14:00,Round 32,Brighton,2,Leicester,2
+2070155,2024/25,4/12/25 14:00,Round 32,Nott'm Forest,0,Everton,1
+2070156,2024/25,4/12/25 14:00,Round 32,Southampton,0,Aston Villa,3
+2070149,2024/25,4/12/25 16:30,Round 32,Arsenal,1,Brentford,1
+2070151,2024/25,4/13/25 13:00,Round 32,Chelsea,2,Ipswich,2
+2070152,2024/25,4/13/25 13:00,Round 32,Liverpool,2,West Ham,1
+2070157,2024/25,4/13/25 13:00,Round 32,Wolves,4,Tottenham,2
+2070154,2024/25,4/13/25 15:30,Round 32,Newcastle,4,Man United,1
+2070148,2024/25,4/14/25 19:00,Round 32,Bournemouth,1,Fulham,0
+2070126,2024/25,4/16/25 18:30,Round 29,Newcastle,5,Crystal Palace,0
+2070159,2024/25,4/19/25 14:00,Round 33,Brentford,4,Brighton,2
+2070160,2024/25,4/19/25 14:00,Round 33,Crystal Palace,0,Bournemouth,0
+2070161,2024/25,4/19/25 14:00,Round 33,Everton,0,Man City,2
+2070167,2024/25,4/19/25 14:00,Round 33,West Ham,1,Southampton,1
+2070158,2024/25,4/19/25 16:30,Round 33,Aston Villa,4,Newcastle,1
+2070162,2024/25,4/20/25 13:00,Round 33,Fulham,1,Chelsea,2
+2070163,2024/25,4/20/25 13:00,Round 33,Ipswich,0,Arsenal,4
+2070165,2024/25,4/20/25 13:00,Round 33,Man United,0,Wolves,1
+2070164,2024/25,4/20/25 15:30,Round 33,Leicester,0,Liverpool,1
+2070166,2024/25,4/21/25 19:00,Round 33,Tottenham,1,Nott'm Forest,2
+2070173,2024/25,4/22/25 19:00,Round 34,Man City,2,Aston Villa,1
+2070169,2024/25,4/23/25 19:00,Round 34,Arsenal,2,Crystal Palace,2
+2070171,2024/25,4/26/25 11:30,Round 34,Chelsea,1,Everton,0
+2070170,2024/25,4/26/25 14:00,Round 34,Brighton,3,West Ham,2
+2070174,2024/25,4/26/25 14:00,Round 34,Newcastle,3,Ipswich,0
+2070176,2024/25,4/26/25 14:00,Round 34,Southampton,1,Fulham,2
+2070177,2024/25,4/26/25 14:00,Round 34,Wolves,3,Leicester,0
+2070168,2024/25,4/27/25 13:00,Round 34,Bournemouth,1,Man United,1
+2070172,2024/25,4/27/25 15:30,Round 34,Liverpool,5,Tottenham,1
+2070175,2024/25,5/1/25 18:30,Round 34,Nott'm Forest,0,Brentford,2
+2070186,2024/25,5/2/25 19:00,Round 35,Man City,1,Wolves,0
+2070179,2024/25,5/3/25 11:30,Round 35,Aston Villa,1,Fulham,0
+2070184,2024/25,5/3/25 14:00,Round 35,Everton,2,Ipswich,2
+2070185,2024/25,5/3/25 14:00,Round 35,Leicester,2,Southampton,0
+2070178,2024/25,5/3/25 16:30,Round 35,Arsenal,1,Bournemouth,2
+2070180,2024/25,5/4/25 13:00,Round 35,Brentford,4,Man United,3
+2070181,2024/25,5/4/25 13:00,Round 35,Brighton,1,Newcastle,1
+2070187,2024/25,5/4/25 13:00,Round 35,West Ham,1,Tottenham,1
+2070182,2024/25,5/4/25 15:30,Round 35,Chelsea,3,Liverpool,1
+2070183,2024/25,5/5/25 19:00,Round 35,Crystal Palace,1,Nott'm Forest,1
+2070189,2024/25,5/10/25 14:00,Round 36,Fulham,1,Everton,3
+2070190,2024/25,5/10/25 14:00,Round 36,Ipswich,0,Brentford,1
+2070195,2024/25,5/10/25 14:00,Round 36,Southampton,0,Man City,0
+2070197,2024/25,5/10/25 14:00,Round 36,Wolves,0,Brighton,2
+2070188,2024/25,5/10/25 16:30,Round 36,Bournemouth,0,Aston Villa,1
+2070193,2024/25,5/11/25 11:00,Round 36,Newcastle,2,Chelsea,0
+2070192,2024/25,5/11/25 13:15,Round 36,Man United,0,West Ham,2
+2070194,2024/25,5/11/25 13:15,Round 36,Nott'm Forest,2,Leicester,2
+2070196,2024/25,5/11/25 13:15,Round 36,Tottenham,0,Crystal Palace,2
+2070191,2024/25,5/11/25 15:30,Round 36,Liverpool,2,Arsenal,2
+2070199,2024/25,5/16/25 18:30,Round 37,Aston Villa,2,Tottenham,0
+2070202,2024/25,5/16/25 19:15,Round 37,Chelsea,1,Man United,0
+2070204,2024/25,5/18/25 11:00,Round 37,Everton,2,Southampton,0
+2070207,2024/25,5/18/25 13:15,Round 37,West Ham,1,Nott'm Forest,2
+2070200,2024/25,5/18/25 14:00,Round 37,Brentford,2,Fulham,3
+2070205,2024/25,5/18/25 14:00,Round 37,Leicester,2,Ipswich,0
+2070198,2024/25,5/18/25 15:30,Round 37,Arsenal,1,Newcastle,0
+2070201,2024/25,5/19/25 19:00,Round 37,Brighton,3,Liverpool,2
+2070203,2024/25,5/20/25 19:00,Round 37,Crystal Palace,4,Wolves,2
+2070206,2024/25,5/20/25 19:00,Round 37,Man City,3,Bournemouth,1
+2070208,2024/25,5/25/25 15:00,Round 38,Bournemouth,2,Leicester,0
+2070209,2024/25,5/25/25 15:00,Round 38,Fulham,0,Man City,2
+2070210,2024/25,5/25/25 15:00,Round 38,Ipswich,1,West Ham,3
+2070211,2024/25,5/25/25 15:00,Round 38,Liverpool,1,Crystal Palace,1
+2070212,2024/25,5/25/25 15:00,Round 38,Man United,2,Aston Villa,0
+2070213,2024/25,5/25/25 15:00,Round 38,Newcastle,0,Everton,1
+2070214,2024/25,5/25/25 15:00,Round 38,Nott'm Forest,0,Chelsea,1
+2070215,2024/25,5/25/25 15:00,Round 38,Southampton,1,Arsenal,2
+2070216,2024/25,5/25/25 15:00,Round 38,Tottenham,1,Brighton,4
+2070217,2024/25,5/25/25 15:00,Round 38,Wolves,1,Brentford,1
