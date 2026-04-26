@@ -92,7 +92,7 @@ The main visualization shows:
 - **Color**: Final league position (rank 1-20)
 - **Patterns**: Trends in competitiveness and performance standards
 
-![Evolution of Premier League Competitiveness](figures/epl_competitiveness.png)
+![Evolution of Premier League Competitiveness](figures/league_points.png)
 
 ## Dependencies
 
