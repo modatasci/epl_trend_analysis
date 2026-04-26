@@ -24,7 +24,7 @@ This project uses `uv` for dependency management.
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/modatasci/epl_trend_analysis.git
 cd epl_trend_analysis
 ```
 
@@ -66,7 +66,6 @@ epl_trend_analysis/
 │   ├── raw/                 # Original dataset
 │   └── processed/           # Processed data files
 ├── figures/                 # Generated visualizations
-│   └── club_logos/          # Team logo images
 ├── notebooks/
 │   └── exploration.ipynb    # Exploratory analysis
 ├── src/
@@ -80,7 +79,7 @@ epl_trend_analysis/
 ## Data Source
 
 Dataset: English Premier League Match Data (2000-2025)
-- Source: [Kaggle - marcohuiii/english-premier-league-epl-match-data-2000-2025]
+- Source: [Kaggle - marcohuiii/english-premier-league-epl-match-data-2000-2025; www.thesportsdb.com - for additional data]
 - Coverage: Seasons 2005/06 through 2024/25
 - Features: Match results, goals, team standings, points
 

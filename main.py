@@ -12,6 +12,9 @@ def main():
 
     # modify data
     dataset = format_dataset(df)
+
+    # store dataset to processed folder
+    dataset.to_csv(f"{project_root}/data/processed/total_points_by_season.csv",index=False)
     
     # Visualize
     visualize_league_standings(dataset, project_root=project_root)
